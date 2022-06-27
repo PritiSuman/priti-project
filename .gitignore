@@ -1,0 +1,27 @@
+# Intellij IDE
+*.iml
+*.ipr
+*.iws
+*.idea
+*.idea/*
+
+# Maven
+log/
+target/
+
+# eclipse project file
+.settings/
+.classpath/
+.project
+
+
+#### VisualStudiosCode ####
+.vscode/*
+
+#visual studio 2015/2017 cache/options directory
+.vs/
+
+#Reporte files
+output/
+.txt
+.DS_Store
